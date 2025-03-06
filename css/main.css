@@ -41,10 +41,14 @@
 }
 .mam{
 	background-image: url("../images/couple-1807617_640.jpg");
-	height: 500px;
+	height: 600px;
 	background-size: cover;
-	width: 1200px;
+	width: 1300px;
 	border-radius: ;
+}
+.li{
+	text-align: center;
+	color: ghostwhite;
 }
 .me{
   text-align: center;
@@ -52,32 +56,32 @@
 }
 .dress1{
 	width: 200px;
-	border-radius: 1.5rem;
+	border-radius: 50rem;
 }
 .dress2{
 	width: 200px;
 	height: 220px;
-	border-radius: 1.5rem;
+	border-radius: 50rem;
 }
 .us{
 	width: 200px;
 	height: 220px;
-	border-radius: 1.5rem;
+	border-radius: 50rem;
 }
 .is{
 	width: 200px;
 	height: 220px;
-	border-radius: 1.5rem;
+	border-radius: 50rem;
 }
 .ms{
 	width: 200px;
 	height: 220px;
-	border-radius: 1.5rem;
+	border-radius: 50rem;
 }
 .do{
 	width: 200px;
 	height: 220px;
-	border-radius: 1.5rem;
+	border-radius: 50rem;
 }
 .pop{
 	background-color: ;
@@ -85,13 +89,13 @@
 }
 .why{
      
-	border-radius: 1.5rem;
+	border-radius: 50rem;
 
 }
 .ly{
 	width: 200px;
 	height: 220px;
-	border-radius: 1.5rem;
+	border-radius: 50rem;
 }
 
 }
@@ -105,7 +109,7 @@ input{
 	border-radius: 10px;
 }
 p{
-	font-family: Matura MT Script Capitals;
+	font-family: calibri;
 	font-size: 18px;
 	color: black;
 }
@@ -141,14 +145,21 @@ h1{
 	font-size: 40px;
 	font-family: calibri;
 	padding-top: 4rem;
-	color: black;
+	color: ghostwhite;
 
 }
 .le{
 	font-size: 50px;
-	font-family: Matura MT Script Capitals;
+	font-family: calibri;
 	text-align: center;
 }
 .yi{
-	
+	font-family: calibri;
+	color: gray;
+	font-size: 24px;
+}
+.lk{
+	background-color: mintcream;
+	border-radius: 2rem;
+	margin: 0.5rem 0.5rem;
 }
