@@ -1,0 +1,154 @@
+.row{
+   width: 100%;
+   display: flex;
+   background-color: whitesmoke;
+}
+.col-1{
+	width: 8.33%;
+}
+.col-2{
+	width: 16.67%;
+}
+.col-3{
+	width: 25%;
+}
+.col-4{
+	width: 33.33%;
+}
+.col-5{
+	width: 41.67%;
+}
+.col-6{
+	width: 50%;
+}
+.col-7{
+   width: 58.33%;
+}
+.col-8{
+	width: 66.67%;
+}
+.col-9{
+	width: 75%;
+}
+.col-10{
+	width: 83.33%;
+}
+.col-11{
+	width: 91.67%;
+}
+.col-12{
+	width: 100%;
+}
+.mam{
+	background-image: url("../images/couple-1807617_640.jpg");
+	height: 500px;
+	background-size: cover;
+	width: 1200px;
+	border-radius: ;
+}
+.me{
+  text-align: center;
+
+}
+.dress1{
+	width: 200px;
+	border-radius: 1.5rem;
+}
+.dress2{
+	width: 200px;
+	height: 220px;
+	border-radius: 1.5rem;
+}
+.us{
+	width: 200px;
+	height: 220px;
+	border-radius: 1.5rem;
+}
+.is{
+	width: 200px;
+	height: 220px;
+	border-radius: 1.5rem;
+}
+.ms{
+	width: 200px;
+	height: 220px;
+	border-radius: 1.5rem;
+}
+.do{
+	width: 200px;
+	height: 220px;
+	border-radius: 1.5rem;
+}
+.pop{
+	background-color: ;
+	display: flex;
+}
+.why{
+     
+	border-radius: 1.5rem;
+
+}
+.ly{
+	width: 200px;
+	height: 220px;
+	border-radius: 1.5rem;
+}
+
+}
+.yip{
+	padding: 10rem 0;
+}
+input{
+	margin: 10px 5px;
+	width: 500px;
+	height: 30px;
+	border-radius: 10px;
+}
+p{
+	font-family: Matura MT Script Capitals;
+	font-size: 18px;
+	color: black;
+}
+h2{
+	font-size: 24px;
+	color: gray;
+	font-family: italics;
+}
+h1{
+	font-size: 28px;
+	font-family: Matura MT Script Capitals;
+}
+.uo{
+	border-radius: 2rem;
+}
+.new{
+		font-family: Matura MT Script Capitals;
+	font-size: 28px;
+	color: gray;	
+	background-color: black;
+	margin: 10px 5px;
+}
+.ou{
+	height: 430px;
+	border-radius: 1.5rem;
+	width: 630px;
+}
+.pens{
+	background-color: ;
+}
+.her{
+	text-align: center;
+	font-size: 40px;
+	font-family: calibri;
+	padding-top: 4rem;
+	color: black;
+
+}
+.le{
+	font-size: 50px;
+	font-family: Matura MT Script Capitals;
+	text-align: center;
+}
+.yi{
+	
+}
