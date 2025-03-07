@@ -40,11 +40,11 @@
 	width: 100%;
 }
 .mam{
-	background-image: url("images/couple-1807617_640.jpg");
+	background-image: url("images/meeting-5395615_640.jpg");
 	height: 600px;
 	background-size: cover;
 	width: 1300px;
-	border-radius: ;
+	border-radius:1.5rem;
 }
 .li{
 	text-align: center;
@@ -162,4 +162,8 @@ h1{
 	background-color: mintcream;
 	border-radius: 2rem;
 	margin: 0.5rem 0.5rem;
+}
+.navbar{
+	display: flex;
+
 }
