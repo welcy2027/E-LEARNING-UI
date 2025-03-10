@@ -40,7 +40,7 @@
 	width: 100%;
 }
 .mam{
-	background-image: url("images/meeting-5395615_640.jpg");
+	background-image: url("../images/couple-1807617_640.jpg");
 	height: 600px;
 	background-size: cover;
 	width: 1300px;
@@ -161,9 +161,37 @@ h1{
 .lk{
 	background-color: mintcream;
 	border-radius: 2rem;
-	margin: 0.5rem 0.5rem;
+	margin: 1.5rem 0.5rem;
 }
 .navbar{
 	display: flex;
-
+   text-decoration: none;
+   margin: 0.5rem 2rem;
+}
+ul{
+	text-decoration: none;
+	display: flex;
+	margin: 0.5rem 2rem;
+	padding: 1rem 2rem;
+}
+.yo{
+	margin: 1rem 2rem;
+}
+.what{
+	height: 200px;
+	width: 500px;
+	padding: 1rem 2rem;
+/*	margin: 1rem 2rem;*/
+	border: 1.5 solid black;
+}
+.ki{
+	height: 50px;
+	width: 300px;
+	border: 1.5 solid black;
+}
+.KA{
+	height: 100px;
+	width: 100px;
+	border: 1.5 solid black;
+	text-align: center;
 }
